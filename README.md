@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=FFFFFF"/>
 </p>
 
 <h3>Tools</h3>
@@ -22,6 +23,8 @@
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=kalilinux&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF"/>
 </p>
 
 <h3>Interest List</h3>
@@ -31,6 +34,26 @@
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/XRP-25A768?style=flat-square&logo=xrp&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=FFFFFF"/>
+</p>
+
+<h3>ETC</h3>
+<p>
+  <img src="https://img.shields.io/badge/Ableton Live-000000?style=flat-square&logo=abletonlive&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat-square&logo=googledocs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=googledrive&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Microsoft Visio-3955A3?style=flat-square&logo=microsoftvisio&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=microsoftword&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=FFFFFF"/>
+
 </p>
 
 <h3>I'm here</h3>
