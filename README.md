@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF"/>
 </p>
 
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/XRP-25A768?style=flat-square&logo=xrp&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat-square&logo=elasticsearch&logoColor=FFFFFF"/>
 </p>
 
 <h3>ETC</h3>
