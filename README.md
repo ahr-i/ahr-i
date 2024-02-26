@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=pypy&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/C&sharp;-512BD4?style=flat-square&logo=csharp&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GNU bash-4EAA25?style=flat-square&logo=gnubash&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/>
