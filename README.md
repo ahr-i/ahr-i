@@ -73,10 +73,10 @@
   <a href="https://github.com/Ahr-i" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 </p><br/>
 
-<!--
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a_hri)](https://solved.ac/a_hri/)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahr-i&show_icons=true&theme=midnight-purple)
--->
+
 ---
 <p align="center">
   <!-- -->
