@@ -1,6 +1,9 @@
 <h1 align="center">Hello World! <img src="images/hanbyul.png" width="35"/></h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahr-i&label=Profile%20views&color=0a0a0a&style=flat" alt="ahr-i"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Projects-6-blue"/>
   <img src="https://img.shields.io/badge/Papers-1-red"/>
   <img src="https://img.shields.io/badge/Competitions-5-yellow"/>
@@ -82,20 +85,10 @@
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a_hri)](https://solved.ac/a_hri/)
 -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahr-i&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-i&theme=midnight-purple" alt="ahr-i"/>
 </p>
-
----
 <p align="center">
-  <!--
-  <img src="images/hanbyul.png" alt="hanbyul" />
-  -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahr-i&theme=darkhub" alt="ahr-i"/></a>
 </p>
-
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahr-i&label=Profile%20views&color=0e75b6&style=flat" alt="ahr-i"/> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahr-i" alt="ahr-i"/></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-i&" alt="ahr-i"/></p>
--->
