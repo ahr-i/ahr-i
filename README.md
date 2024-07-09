@@ -1,7 +1,14 @@
-<h1>Hello World!<img src=images/hanbyul.png width="35"/></h1>
+<h1 align="center">Hello World! <img src="images/hanbyul.png" width="35"/></h1>
 
-<h3>Code</h3>
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-6-blue"/>
+  <img src="https://img.shields.io/badge/Papers-1-red"/>
+  <img src="https://img.shields.io/badge/Competitions-5-yellow"/>
+  <img src="https://img.shields.io/badge/Patents-3-green"/>
+</p>
+
+<h2 align="center">Languages & Technologies</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
@@ -9,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/PyPy-193440?style=flat-square&logo=pypy&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/C&sharp;-512BD4?style=flat-square&logo=csharp&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/GNU bash-4EAA25?style=flat-square&logo=gnubash&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
@@ -19,8 +26,8 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=FFFFFF"/>
 </p>
 
-<h3>Tools</h3>
-<p>
+<h2 align="center">Tools</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/>
@@ -37,8 +44,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF"/>
 </p>
 
-<h3>Interest List</h3>
-<p>
+<h2 align="center">Interests</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=FFFFFF"/>
@@ -47,8 +54,8 @@
   <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat-square&logo=elasticsearch&logoColor=FFFFFF"/>
 </p>
 
-<h3>ETC</h3>
-<p>
+<h2 align="center">ETC</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Ableton Live-000000?style=flat-square&logo=abletonlive&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=FFFFFF"/>
@@ -64,34 +71,25 @@
   <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=microsoftword&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=FFFFFF"/>
-
 </p>
 
-<h3>I'm here</h3>
-<p>
+<h2 align="center">I'm here</h2>
+<p align="center">
   <a href="https://twitter.com/a__hri" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/></a>
   <a href="https://github.com/Ahr-i" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-</p><br/>
+</p>
 
 <!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a_hri)](https://solved.ac/a_hri/)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a_hri)](https://solved.ac/a_hri/)
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahr-i&show_icons=true&theme=midnight-purple)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahr-i&show_icons=true&theme=midnight-purple"/>
+</p>
 
 ---
 <p align="center">
-  <!-- -->
+  <!--
+  <img src="images/hanbyul.png" alt="hanbyul" />
+  -->
 </p>
-
-<!--
-![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)![msa_architecture](./images/hanbyul.png)
-![msa_architecture](./images/hanbyul.png)
--->
