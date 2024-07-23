@@ -86,9 +86,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a_hri)](https://solved.ac/a_hri/)
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahr-i&show_icons=true&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-i&theme=midnight-purple" alt="ahr-i"/>
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahr-i&theme=darkhub" alt="ahr-i"/></a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ahr-i&show_icons=true&theme=midnight-purple"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-i&theme=midnight-purple" alt="ahr-i"/>
+  <img height="190" src="https://github-profile-trophy.vercel.app/?username=ahr-i&theme=darkhub" alt="ahr-i"/>
 </p>
