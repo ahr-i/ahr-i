@@ -79,12 +79,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=FFFFFF" />
 </p>
 
-<h2 align="center">I'm here</h2>
-<p align="center">
-  <a href="https://x.com/a__hri" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
-  <a href="https://github.com/ahr-i" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-</p>
-
 <h2 align="center">Achivements</h2>
 <p align="center">
   <!--
@@ -93,4 +87,10 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahr-i&show_icons=true&theme=midnight-purple" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-i&theme=midnight-purple" alt="ahr-i" /><br />
   <img height="190" src="https://github-profile-trophy.vercel.app/?username=ahr-i&theme=darkhub" alt="ahr-i" />
+</p>
+
+<h2 align="center">I'm here</h2>
+<p align="center">
+  <a href="https://x.com/a__hri" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
+  <a href="https://github.com/ahr-i" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 </p>
