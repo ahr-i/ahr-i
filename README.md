@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Papers-1-red" />
   <img src="https://img.shields.io/badge/Competitions-5-yellow" />
   <img src="https://img.shields.io/badge/Patents-3-green" />
-</p><br />
+</p>
 
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=FFFFFF" />
-</p><br />
+</p>
 
 <h2 align="center">Tools</h2>
 <p align="center">
@@ -46,8 +46,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF" />
-</p><br />
+</p>
 
+<!--
 <h2 align="center">Interests</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=FFFFFF" />
@@ -56,7 +57,8 @@
   <img src="https://img.shields.io/badge/XRP-25A768?style=flat-square&logo=xrp&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat-square&logo=elasticsearch&logoColor=FFFFFF" />
-</p><br />
+</p>
+-->
 
 <h2 align="center">ETC</h2>
 <p align="center">
@@ -75,13 +77,13 @@
   <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=microsoftword&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=FFFFFF" />
-</p><br />
+</p>
 
 <h2 align="center">I'm here</h2>
 <p align="center">
   <a href="https://x.com/a__hri" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
   <a href="https://github.com/ahr-i" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-</p><br />
+</p>
 
 <h2 align="center">Achivements</h2>
 <p align="center">
