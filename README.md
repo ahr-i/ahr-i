@@ -86,7 +86,7 @@
   -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahr-i&show_icons=true&theme=midnight-purple" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-i&theme=midnight-purple" alt="ahr-i" /><br />
-  <img height="190" src="https://github-profile-trophy.vercel.app/?username=ahr-i&theme=darkhub" alt="ahr-i" />
+  <img height="186" src="https://github-profile-trophy.vercel.app/?username=ahr-i&theme=darkhub" alt="ahr-i" />
 </p>
 
 <h2 align="center">I'm here</h2>
