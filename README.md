@@ -1,7 +1,10 @@
-<h1 align="center">
-  Hello World!
-  <img src="images/hanbyul.png" width="35" />
-</h1>
+<header>
+  <h1 align="center">
+    Hello World!
+    <!--<img src="images/hanbyul.png" width="35" />-->
+    <img src="images/ahri_00.png" width="45">
+  </h1>
+</header>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahr-i&label=Profile%20views&color=0a0a0a&style=flat" alt="ahr-i" /><br />
