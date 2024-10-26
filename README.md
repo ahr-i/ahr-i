@@ -1,8 +1,9 @@
 <header>
   <h1 align="center">
+    <img src="images/ahri_01.png" width="40" height="40">
     Hello World!
     <!--<img src="images/hanbyul.png" width="35" />-->
-    <img src="images/ahri_00.png" width="45">
+    <img src="images/ahri_00.png" width="40" height="40">
   </h1>
 </header>
 
