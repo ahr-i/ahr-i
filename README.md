@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahr-i&label=Profile%20views&color=0a0a0a&style=flat" alt="ahr-i" /><br />
-  <img src="https://img.shields.io/badge/Projects-8-blue" />
+  <img src="https://img.shields.io/badge/Projects-9-blue" />
   <img src="https://img.shields.io/badge/Papers-2-red" />
   <img src="https://img.shields.io/badge/Competitions-7-yellow" />
   <img src="https://img.shields.io/badge/Patents-3-green" />
