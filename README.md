@@ -55,18 +55,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF" />
 </p>
 
-<!--
-<h2 align="center">Interests</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/XRP-25A768?style=flat-square&logo=xrp&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat-square&logo=elasticsearch&logoColor=FFFFFF" />
-</p>
--->
-
 <h2 align="center">ETC</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Ableton Live-000000?style=flat-square&logo=abletonlive&logoColor=FFFFFF" />
@@ -88,9 +76,6 @@
 
 <h2 align="center">Achivements</h2>
 <p align="center">
-  <!--
-  <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=a_hri"/><br/>
-  -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahr-i&show_icons=true&theme=midnight-purple" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ahr-i&theme=midnight-purple" alt="ahr-i" /><br />
   <img height="186" src="https://github-profile-trophy.vercel.app/?username=ahr-i&theme=darkhub" alt="ahr-i" />
@@ -100,6 +85,6 @@
 <p align="center">
   <a href="https://x.com/a__hri" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
   <a href="https://github.com/ahr-i" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-  <a href="https://www.instagram.com/ahri_s2_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" /></a>
+  <a href="mailto:ahri.public@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
   <a href="https://www.reddit.com/user/a__hri" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF" /></a>
 </p>
