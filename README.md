@@ -2,14 +2,13 @@
   <h1 align="center">
     <img src="images/ahri_01.png" width="40" height="40">
     Hello World!
-    <!--<img src="images/hanbyul.png" width="35" />-->
     <img src="images/ahri_00.png" width="40" height="40">
   </h1>
 </header>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahr-i&label=Profile%20views&color=0a0a0a&style=flat" alt="ahr-i" /><br />
-  <img src="https://img.shields.io/badge/Projects-9-blue" />
+  <img src="https://img.shields.io/badge/Projects-10-blue" />
   <img src="https://img.shields.io/badge/Papers-2-red" />
   <img src="https://img.shields.io/badge/Competitions-8-yellow" />
   <img src="https://img.shields.io/badge/Patents-3-green" />
@@ -83,8 +82,8 @@
 
 <h2 align="center">I'm here</h2>
 <p align="center">
-  <a href="https://x.com/a__hri" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
   <a href="https://github.com/ahr-i" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
   <a href="mailto:ahri.public@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
-  <a href="https://www.reddit.com/user/a__hri" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF" /></a>
 </p>
